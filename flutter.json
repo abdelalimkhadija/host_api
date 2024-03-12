@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Project Proposal",
+    "description": "Write and finalize the project proposal document.",
+    "priority": "High",
+    "status": "In Progress",
+    "due_date": "2024-03-15",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Design Wireframes",
+    "description": "Create wireframes for the application UI.",
+    "priority": "Medium",
+    "status": "Pending",
+    "due_date": "2024-03-18",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Research Flutter Packages",
+    "description": "Research and evaluate useful Flutter packages for project requirements.",
+    "priority": "High",
+    "status": "Pending",
+    "due_date": "2024-03-20",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Setup Database",
+    "description": "Set up the database architecture for the application.",
+    "priority": "High",
+    "status": "Not Started",
+    "due_date": "2024-03-22",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Develop Authentication System",
+    "description": "Implement user authentication using Firebase Auth.",
+    "priority": "High",
+    "status": "Not Started",
+    "due_date": "2024-03-25",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Create Homepage UI",
+    "description": "Design and develop the user interface for the homepage.",
+    "priority": "Medium",
+    "status": "Not Started",
+    "due_date": "2024-03-28",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Implement API Calls",
+    "description": "Integrate API calls for fetching data from the backend.",
+    "priority": "High",
+    "status": "Not Started",
+    "due_date": "2024-04-01",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Write Unit Tests",
+    "description": "Write unit tests for critical application functionalities.",
+    "priority": "Medium",
+    "status": "Not Started",
+    "due_date": "2024-04-04",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Refactor Codebase",
+    "description": "Refactor and optimize existing codebase for better performance.",
+    "priority": "Low",
+    "status": "Not Started",
+    "due_date": "2024-04-07",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "Bug Fixing and Testing",
+    "description": "Identify and fix bugs, conduct thorough testing.",
+    "priority": "High",
+    "status": "Not Started",
+    "due_date": "2024-04-10",
+    "completed": false
+  }
+]
